@@ -1,4 +1,4 @@
-# 레스토랑 홈페이지 제작
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=restaurant.html&fontSize=90)
 
 ## 소개
 - 프로젝트를 하기 위해 가상의 홈페이지 제작
